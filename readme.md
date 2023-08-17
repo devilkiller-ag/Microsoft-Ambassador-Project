@@ -70,11 +70,6 @@ https://github.com/devilkiller-ag/AskItOut/assets/43639341/4d4d79ca-f259-4bb6-9b
 - Database: [MongoDB Atlas](https://www.mongodb.com/atlas/database)
 - Backend: [Render](https://render.com/)
 
-## Contributor
-- Web Design is created by [Ashmit JaiSarita Gupta](https://github.com/devilkiller-ag).
-- Frontend is developed by [Ashmit JaiSarita Gupta](https://github.com/devilkiller-ag).
-- Backend is developed by [Aryan Gupta](https://github.com/aryanguptaaa).
-
 # Development Guide
 ## Available Scripts for Client
 

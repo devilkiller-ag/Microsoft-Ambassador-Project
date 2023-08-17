@@ -1,4 +1,4 @@
-# AskItOut
+# Microsoft Ambassador Project: AskItOut
 AskItOut is a doubt sharing website for educational institutions where students can post their questions to be answered as soon as possible by their seniors and teachers who are experts in the field.
 
 - The site is live [here](https://askitout.vercel.app/).
